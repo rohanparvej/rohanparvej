@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohanparvej
-- 👀 I’m interested in web-development, programming
+- 👀 I’m enthusiastic about Computer Science.
 - 🌱 I’m currently learning ml.
-- 🧑🏽‍💻 I’m looking to collaborate on web-dev and ml projects
+- 🧑🏽‍💻 I’m looking to collaborate on ml and web-dev projects
 
 <!---
 rohanparvej/rohanparvej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
