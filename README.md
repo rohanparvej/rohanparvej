@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanparvej
 - 👀 I’m enthusiastic about Computer Science.
-- 🌱 I’m currently learning ml.
+- 🌱 I’m currently working on full fledges AIML Applications.
 - 🧑🏽‍💻 I’m looking to collaborate on ml and web-dev projects
 
 <!---
