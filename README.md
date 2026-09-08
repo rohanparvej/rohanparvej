@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @rohanparvej
+# 👋 Hi, I'm @[ rohanparvej ]
 
 ### 🤖 AI/ML & Full-Stack Developer
 
