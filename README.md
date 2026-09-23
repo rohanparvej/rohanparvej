@@ -10,11 +10,11 @@ I'm a Computer Science enthusiast passionate about bridging the gap between Mach
 
 * **Languages:** Python, JavaScript, HTML/CSS, C, C++
 * **AI / ML:** PyTorch, Scikit-learn, NumPy, NLP, Model Deployment
-* **Backend:** FastAPI, Jinja2, Uvicorn, REST APIs
+* **Backend:** FastAPI, Express Js, Jinja2, Uvicorn, REST APIs
 * **Tools & Workflow:** Git, GitHub, `uv` Package Manager
 * **Databases:** MongoDB, PostgreSQL, MySQL, MariaDB
 * **Deployment:** AWS SSH (via ec2), Docker IMAGE
-
+* **Frontend:** Vue js, React
 ---
 
 ### 🌱 What I'm Up To
@@ -23,3 +23,4 @@ I'm a Computer Science enthusiast passionate about bridging the gap between Mach
 * 🎯 **Goals:** Continuing to master scalable model serving and end-to-end full-stack architectures
 
 ---
+### ⚡Check out characterAt, Qrgen and Dcoumorphic!
