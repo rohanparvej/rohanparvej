@@ -2,7 +2,7 @@
 
 ### 🤖 AI/ML & Full-Stack Developer
 
-I'm a Computer Science enthusiast passionate about bridging the gap between Machine Learning and Web Development. I build full-fledged AI-powered applications—from model training and PyTorch architectures to seamless backend deployment with FastAPI and NodeJS.
+I'm a Computer Science enthusiast passionate about bridging the gap between Machine Learning and Web Development. I build full-fledged AI-powered applications—from model training and PyTorch architectures to seamless backend deployment with FastAPI and NodeJS. I also develop full-stack web applications.
 
 ---
 
